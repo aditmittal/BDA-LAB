@@ -1,0 +1,6 @@
+db.Student.find({StudentName:'Adit'}).pretty()
+db.Faculty.find({FacultyName:'Aditya Kumar'}).pretty()
+db.COE.find({COEName:'Adhyayan Panwar'}).pretty()
+db.Admission.find({AdmissionName:'Adit Mittal'}).pretty()
+db.Library.find({Branch:'CSE'}).pretty()
+db.CollegeFestival.find({Month:'April'}).pretty()
